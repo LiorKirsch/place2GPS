@@ -1,4 +1,4 @@
-place2GPS - Translate place names into gps cordinates
+place2GPS - Translate place names into GPS cordinates
 ========================================================
 
 Use:
