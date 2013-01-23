@@ -1,5 +1,5 @@
-
-Translate place names into gps cordinates
+place2GPS - Translate place names into gps cordinates
+========================================================
 
 Use:
 Put the place name in the file locations.txt.
